@@ -4,6 +4,10 @@ class Home extends Component {
   render() {
     return (
       <>
+        <h3>
+          When I hear music, I fear no danger. I am invulnerable. I see no foe. I am related to the
+          earliest times, and to the latest. -Henry David Thoreau
+        </h3>
         <p>Solid Sounds for any occasion.</p>
         <div>
           <img src="../assets/norah1.jpeg" />
